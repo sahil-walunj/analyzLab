@@ -14,5 +14,5 @@ pip install PyQt6 matplotlib psutil
 
 ## Executing 
 ```bash
-pyhton3 main.py
+python3 main.py
 ```
